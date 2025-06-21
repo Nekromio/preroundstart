@@ -1,4 +1,3 @@
-````markdown
 # PreRoundStart
 
 Эмуляция события "перед началом раунда" (`round_prestart`) для CS:S и других Source-игр, в которых оно отсутствует.
